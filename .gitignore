@@ -1,2 +1,3 @@
 payloads/*.b64
 *.log
+.env
